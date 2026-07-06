@@ -2,6 +2,16 @@
 
 Programme-level index of all thirty experiments.
 
+Agent #0 is an internal process dry run and is excluded from the thirty public experiments.
+
+## Internal Dry Run
+
+| Agent | Title | Repository | Brief | Evaluation | Verdict | Confidence | Recommended autonomy | Article / Case Study | Demo | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| #0 | Process Dry Run | [agent-00-process-dry-run](https://github.com/EMT/agent-00-process-dry-run) | [brief](https://github.com/EMT/agent-00-process-dry-run/blob/main/brief.md) | [evaluation](https://github.com/EMT/agent-00-process-dry-run/blob/main/evaluation.md) | Not started | TBD | TBD | Internal only | TBD | Prepared |
+
+## Public Experiments
+
 | Agent | Title | Repository | Brief | Evaluation | Verdict | Confidence | Recommended autonomy | Article / Case Study | Demo | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | #01 | Friction Cartographer | TBD | TBD | TBD | Not started | TBD | TBD | TBD | TBD | Planned |
