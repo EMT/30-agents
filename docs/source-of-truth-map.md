@@ -50,7 +50,7 @@ The issue was not the structure itself. The issue was that the planning summary 
 | `registers/research-register.md` | Summary of experiment evidence and later calibration notes. |
 | `registers/field-notes-index.md` | Index of promoted Field Notes from experiments. |
 | `registers/recommendations.md` | Cross-agent recommendations supported by repeated evidence. |
-| `backlog/master-backlog.md` | Canonical approved or candidate execution sequence for experiments. |
+| `backlog/master-backlog.md` | Canonical approved execution sequence for experiments. |
 | `backlog/research-debt.md` | Questions raised by experiments that the programme owes itself. |
 | `research/backlog.md` | Candidate concept pool, coverage matrix and sequencing analysis. |
 | `agents/README.md` | Pointer to external experiment repositories and the canonical agent index. |

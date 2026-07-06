@@ -207,6 +207,8 @@ Do not publish an article, social post or gallery entry before the evaluation is
 
 ## Suggested first Codex task
 
+Status: complete. This was the original handoff task, not current work. Use `docs/source-of-truth-map.md` and the current issue queue for active repository work.
+
 ```txt
 We are creating the 30-agents repository for Fieldwork’s “30 Agents in 30 Days” project.
 
@@ -234,6 +236,8 @@ The first repository-level `AGENTS.md` should tell Codex:
 - do not implement the Agent Kit or individual agents until the operating templates are approved.
 
 ## Next work after handoff
+
+Status: historical. Several items in this list are complete or have been converted into current GitHub issues. Use `docs/source-of-truth-map.md`, `backlog/master-backlog.md` and the current issue queue for active sequencing.
 
 1. Create the `30-agents` repo structure.
 2. Add the foundation docs and planning summary.

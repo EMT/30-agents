@@ -22,6 +22,7 @@ Guidance: one or two sentences. Name the workflow, user, baseline and hypothesis
 - [ ] Assumptions are recorded.
 - [ ] Baseline is recorded.
 - [ ] Initial scenarios are recorded.
+- [ ] Scope still fits one narrow problem.
 - [ ] Scope is frozen for implementation.
 
 Guidance: once this section is checked, scope may shrink but should not expand. Put new ideas in backlog changes or research debt.
