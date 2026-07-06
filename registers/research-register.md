@@ -4,6 +4,16 @@ This register summarises experiment evidence across the programme.
 
 If this register and an experiment's `evaluation.md` disagree, `evaluation.md` wins unless this register explicitly records a later calibration note.
 
+Agent #0 is an internal process dry run and is excluded from the thirty public experiments.
+
+## Internal Dry Run
+
+| Agent | Title | Hypothesis | Verdict | Verdict reason | Confidence | Recommended autonomy | Key evidence | Repository | Demo | Article / Case Study | Calibration notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| #0 | Process Dry Run | The current operating templates and programme records can support one complete experiment repository without structural ambiguity. | Not started | Pending dry-run evaluation. | TBD | TBD | Prepared repository and daily issue. | [agent-00-process-dry-run](https://github.com/EMT/agent-00-process-dry-run) | TBD | Internal only | Excluded from the thirty public experiments. |
+
+## Public Experiments
+
 | Agent | Title | Hypothesis | Verdict | Verdict reason | Confidence | Recommended autonomy | Key evidence | Repository | Demo | Article / Case Study | Calibration notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | #01 | Friction Cartographer | An agent can turn a recorded workflow walkthrough into a useful friction map before proposing any solution. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
