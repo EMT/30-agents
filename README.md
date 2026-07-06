@@ -12,6 +12,7 @@ It does not implement the Agent Kit and does not contain the code for individual
 - [Engineering Principles](docs/engineering-principles.md)
 - [Evaluation Framework](docs/evaluation-framework.md)
 - [Content Strategy](docs/content-strategy.md)
+- [Source of Truth Map](docs/source-of-truth-map.md)
 
 ## Programme Records
 
@@ -22,10 +23,14 @@ It does not implement the Agent Kit and does not contain the code for individual
 - [Master Backlog](backlog/master-backlog.md)
 - [Research Debt](backlog/research-debt.md)
 
+## Research Planning
+
+- [Research Backlog](research/backlog.md)
+
 ## Templates
 
 - [Agent repository templates](templates/agent-repo/)
-- [Operating templates proposal](templates/operating/README.md)
+- [Operating Templates v0.1](templates/operating/README.md)
 
 ## Structure
 
@@ -38,6 +43,7 @@ It does not implement the Agent Kit and does not contain the code for individual
 ├── docs/
 ├── evidence/
 ├── registers/
+├── research/
 ├── synthesis/
 ├── templates/
 └── weekly-reviews/

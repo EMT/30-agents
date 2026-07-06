@@ -10,8 +10,11 @@ Before making project changes, read:
 - `docs/engineering-principles.md`
 - `docs/evaluation-framework.md`
 - `docs/content-strategy.md`
+- `docs/source-of-truth-map.md`
 
-Do not change these foundation documents unless the user explicitly asks.
+Do not change the four foundation documents unless the user explicitly asks. Keep `docs/source-of-truth-map.md` current when repository paths or ownership change.
+
+`docs/planning-summary.md` and `docs/foundation-docs-review.md` are historical planning records. Use `docs/source-of-truth-map.md` for the current repository structure and canonical path ownership.
 
 ## Repository Role
 
