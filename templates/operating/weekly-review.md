@@ -11,6 +11,7 @@ Guidance: use this review to calibrate evidence, verdicts and confidence across 
 | Reviewer | TBD |
 | Experiments reviewed | TBD |
 | Earlier evaluation used as anchor | TBD |
+| Register updates checked | TBD |
 
 Guidance: include at least one earlier evaluation outside the current week as a calibration anchor when possible.
 
@@ -31,6 +32,8 @@ Confidence levels reviewed:
 Earlier evaluation used as anchor:
 
 Calibration notes:
+
+Register or public-content conflicts found:
 
 Guidance: check whether `Confirmed`, `Refined`, `Rejected`, `Low`, `Medium` and `High` are being used consistently. Most daily experiments should be low or medium confidence unless evidence is unusually strong.
 
@@ -88,6 +91,18 @@ TBD
 
 Guidance: note when experiments disagree or when findings repeat. Repeated evidence may become a recommendation through Promotion Review.
 
+## Source-Of-Truth Check
+
+| Check | Result | Follow-up |
+| --- | --- | --- |
+| Research Register matches evaluation summaries or records later calibration notes. | TBD | TBD |
+| Agent Index matches experiment status and links. | TBD | TBD |
+| Field Notes index includes promoted notes and omits non-promoted notes. | TBD | TBD |
+| Recommendations are supported by repeated evidence or a major risk. | TBD | TBD |
+| Public articles, social posts and gallery entries are supported by repository evidence. | TBD | TBD |
+
+Guidance: fix public material when it conflicts with repository evidence. If programme records need changes, record the follow-up here and update the canonical file named in `docs/source-of-truth-map.md`.
+
 ## Public Recap Candidate
 
 TBD
@@ -99,6 +114,7 @@ Guidance: use this only if there is a clear weekly story supported by evidence. 
 - [ ] Research Register updates completed.
 - [ ] Agent Index updates completed.
 - [ ] Field Notes index updates completed.
+- [ ] Recommendations updates completed or explicitly deferred.
 - [ ] Template changes proposed or recorded.
 - [ ] Backlog changes recorded.
 - [ ] Research debt recorded.

@@ -8,6 +8,7 @@ Guidance: draft from the README, evaluation and Field Notes after the evaluation
 - Article or case study:
 - README:
 - Evaluation:
+- Evidence pack:
 - Screenshot or clip:
 
 ## Post Inputs
@@ -69,6 +70,7 @@ Guidance: use only if a thread genuinely improves clarity. Do not stretch a smal
 - [ ] Includes one concrete finding.
 - [ ] Includes verdict when relevant.
 - [ ] Links to evidence.
+- [ ] Does not hide material evidence gaps.
 - [ ] Avoids hype language.
 - [ ] Avoids sensitive information.
 - [ ] Does not imply production readiness unless the evaluation supports it.
