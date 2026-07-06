@@ -18,16 +18,18 @@ Guidance: copy verdict and confidence from `evaluation.md`. If the Research Regi
 
 ## Required
 
-- [ ] `brief.md`
-- [ ] `README.md`
-- [ ] `evaluation.md`
-- [ ] `field-notes.md`
-- [ ] `promotion-review.md`
-- [ ] Representative inputs
-- [ ] Representative outputs
-- [ ] Screenshot when there is a visible interface or output
+| Evidence | Location | Status | Notes |
+| --- | --- | --- | --- |
+| `brief.md` | TBD | TBD | TBD |
+| `README.md` | TBD | TBD | TBD |
+| `evaluation.md` | TBD | TBD | TBD |
+| `field-notes.md` | TBD | TBD | TBD |
+| `promotion-review.md` | TBD | TBD | TBD |
+| Representative inputs | TBD | TBD | TBD |
+| Representative outputs | TBD | TBD | TBD |
+| Screenshot when there is a visible interface or output | TBD | TBD | TBD |
 
-Guidance: these are required for every published experiment. `field-notes.md` should still exist when no Field Notes were promoted.
+Guidance: use `present`, `missing`, `not applicable` or `unsafe to publish` for status. These are required for every published experiment. `field-notes.md` should still exist when no Field Notes were promoted.
 
 ## Capture If Under 10 Minutes Or Automated
 
@@ -40,6 +42,14 @@ Guidance: these are required for every published experiment. `field-notes.md` sh
 - [ ] Baseline comparison notes
 
 Guidance: capture these when they are cheap and safe. Do not let optional evidence displace evaluation work.
+
+## Missing Or Withheld Evidence
+
+| Evidence | Reason | Confidence impact | Follow-up |
+| --- | --- | --- | --- |
+| TBD | TBD | TBD | TBD |
+
+Guidance: record gaps explicitly. Missing evidence should usually reduce confidence unless it is not applicable or unsafe to publish.
 
 ## Scenario Evidence
 

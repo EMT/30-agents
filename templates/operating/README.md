@@ -12,8 +12,9 @@ These templates are derived from:
 - `docs/engineering-principles.md`
 - `docs/evaluation-framework.md`
 - `docs/content-strategy.md`
+- `docs/source-of-truth-map.md`
 
-If a template conflicts with a foundation document, the foundation document wins.
+If a template conflicts with a foundation document on principles, evaluation or content rules, the foundation document wins. If a template conflicts with `docs/source-of-truth-map.md` on repository paths or ownership, the source-of-truth map wins.
 
 ## Templates
 
@@ -24,6 +25,17 @@ If a template conflicts with a foundation document, the foundation document wins
 | Article or case study | `article-or-case-study.md` | Drafting the short public write-up after evaluation and README are complete. |
 | Social posts | `social-posts.md` | Drafting concise posts that point back to the repository, article or case study. |
 | Weekly review | `weekly-review.md` | Calibrating verdicts, confidence levels, repeated findings and research debt across the week. |
+
+## Source-Of-Truth Reminders
+
+| Record | Owns |
+| --- | --- |
+| `brief.md` | Original hypothesis, assumptions, baseline, scope and approval. |
+| `evaluation.md` | Verdict, verdict reason, confidence, autonomy recommendation and evaluation evidence. |
+| `field-notes.md` | Promoted observations, or the record that no Field Notes were promoted. |
+| `promotion-review.md` | Promotion decisions for templates, modules, patterns, recommendations and backlog changes. |
+| Research Register | Programme-level summary of evaluation evidence and later calibration notes. |
+| Agent Index | Programme-level experiment index and status. |
 
 ## How To Use
 

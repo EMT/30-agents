@@ -10,6 +10,7 @@ Guidance: draft this only after `evaluation.md` is complete and the README refle
 - Evaluation:
 - Field Notes:
 - Promotion Review:
+- Evidence pack:
 - Demo or screenshot:
 
 Guidance: public content is derived from the repository. If a claim is not supported there, remove it or update the research record first.
@@ -72,6 +73,7 @@ Guidance: describe future work without rewriting a rejected hypothesis as a succ
 
 - [ ] Evaluation is complete.
 - [ ] README reflects the evidence.
+- [ ] Evidence gaps are either resolved or acknowledged.
 - [ ] Claims are supported by the repository, evaluation or evidence pack.
 - [ ] Sensitive data, credentials, customer information and internal operational details are removed, redacted or summarised.
 - [ ] Verdict and confidence match `evaluation.md`.

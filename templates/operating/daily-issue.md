@@ -8,6 +8,7 @@ Guidance: use this issue as the daily cockpit for one experiment. It should link
 - Repository:
 - Programme index entry:
 - Research Register entry:
+- Evidence pack:
 
 ## Goal
 
@@ -64,6 +65,7 @@ Guidance: do not publish from a happy-path run alone. If the minimum scenario se
 - [ ] Screenshot captured when visible interface or output exists.
 - [ ] Demo recording captured if under 10 minutes or automated.
 - [ ] Cost, latency, logs or traces captured if available and safe.
+- [ ] Missing required or optional evidence is recorded with reason and confidence impact.
 - [ ] Sensitive or internal material removed, redacted or summarised.
 
 Guidance: evidence supports the verdict. Raw logs are supporting evidence, not the source of truth.
@@ -88,6 +90,8 @@ Guidance: promotion requires evidence. Field Notes are observations; recommendat
 - [ ] `promotion-review.md` is complete.
 - [ ] Research Register updated.
 - [ ] Agent Index updated.
+- [ ] Field Notes index updated when notes were promoted, or left unchanged when none were promoted.
+- [ ] Backlog or research debt updated when the Promotion Review creates follow-up work.
 - [ ] Article or case study drafted from the README.
 - [ ] Social posts drafted from the README and Field Notes.
 
@@ -99,5 +103,6 @@ Guidance: public content comes after evaluation. Do not publish claims unsupport
 - [ ] Repository evidence is complete.
 - [ ] Programme records are updated.
 - [ ] Follow-up work is captured as backlog changes or research debt.
+- [ ] Any publication tail that is deferred has an owner and next step.
 
 Guidance: close the issue when the experiment is published and recorded. If publication lags, make that explicit rather than leaving research work incomplete.
