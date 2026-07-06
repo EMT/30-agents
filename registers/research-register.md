@@ -6,4 +6,13 @@ If this register and an experiment's `evaluation.md` disagree, `evaluation.md` w
 
 | Agent | Title | Hypothesis | Verdict | Verdict reason | Confidence | Recommended autonomy | Key evidence | Repository | Demo | Article / Case Study | Calibration notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| #01 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #01 | Friction Cartographer | An agent can turn a recorded workflow walkthrough into a useful friction map before proposing any solution. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #02 | Meeting Evidence Extractor | An agent can extract decisions, open questions, evidence and owner/action pairs from transcripts better than a generic summary. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #03 | Anti-Agent | An agent designed to argue against agentic automation can improve brief quality by identifying simpler baselines, non-AI options and adoption risks before coding starts. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #04 | Proposal Risk Reviewer | An agent can flag ambiguous scope, risky assumptions and missing constraints early enough to improve proposal review. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #05 | Support Intake Classifier | An agent can classify support requests, ask for missing information and suggest routing more reliably than first-pass manual sorting. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #06 | Case Study Drafting Assistant | An agent can draft a short case study from approved source materials while preserving evidence boundaries and voice. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #07 | Trust Designer | A controlled interface that progressively hides rationale, evidence and uncertainty can reveal where trust collapses for a specific workflow. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #08 | Scope Change Assessor | An agent can turn a requested change into a structured impact note that helps a delivery lead decide whether to accept, defer or re-estimate it. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #09 | Accessibility QA Agent | An agent combining automated checks with guided review can produce more useful accessibility QA notes than a raw linter report. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #10 | Sensitive Data Redactor | An agent plus deterministic checks can redact sensitive data more usefully than manual review alone. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
