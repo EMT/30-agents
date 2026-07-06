@@ -16,7 +16,7 @@ Agent #0 is an internal process dry run and is excluded from the thirty public e
 
 | Agent | Title | Hypothesis | Verdict | Verdict reason | Confidence | Recommended autonomy | Key evidence | Repository | Demo | Article / Case Study | Calibration notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| #01 | Friction Cartographer | An agent can turn a recorded workflow walkthrough into a useful friction map before proposing any solution. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
+| #01 | Friction Cartographer | An agent can turn a recorded workflow walkthrough into a useful friction map before proposing any solution. | Not started | Pending evaluation. | TBD | TBD | Approved brief and daily issue prepared; implementation not started. | [agent-01-friction-cartographer](https://github.com/EMT/agent-01-friction-cartographer) | TBD | TBD |  |
 | #02 | Meeting Evidence Extractor | An agent can extract decisions, open questions, evidence and owner/action pairs from transcripts better than a generic summary. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
 | #03 | Anti-Agent | An agent designed to argue against agentic automation can improve brief quality by identifying simpler baselines, non-AI options and adoption risks before coding starts. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
 | #04 | Proposal Risk Reviewer | An agent can flag ambiguous scope, risky assumptions and missing constraints early enough to improve proposal review. | Not started | Pending evaluation. | TBD | TBD | TBD | TBD | TBD | TBD |  |
