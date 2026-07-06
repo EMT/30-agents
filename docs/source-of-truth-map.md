@@ -1,7 +1,7 @@
 # 30 Agents in 30 Days — Source Of Truth Map
 
-**Status:** Current operational structure  
-**Date:** 2026-07-06  
+**Status:** Current operational structure
+**Date:** 2026-07-06
 **Primary repository:** `30-agents`
 
 This document defines the current canonical paths and ownership for the programme repository. Use it when deciding where records, templates, backlog items, evidence notes and synthesis material should live.
