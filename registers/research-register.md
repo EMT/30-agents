@@ -10,7 +10,7 @@ Agent #0 is an internal process dry run and is excluded from the thirty public e
 
 | Agent | Title | Hypothesis | Verdict | Verdict reason | Confidence | Recommended autonomy | Key evidence | Repository | Demo | Article / Case Study | Calibration notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| #0 | Process Dry Run | The current operating templates and programme records can support one complete experiment repository without structural ambiguity. | Not started | Pending dry-run evaluation. | TBD | TBD | Prepared repository and daily issue. | [agent-00-process-dry-run](https://github.com/EMT/agent-00-process-dry-run) | TBD | Internal only | Excluded from the thirty public experiments. |
+| #0 | Process Dry Run | The current operating templates and programme records can support one complete experiment repository without structural ambiguity. | Refined | The workflow supported a complete internal experiment record, but internal-only publication steps and evidence-pack ownership need clearer handling before repeated daily use. | Medium | Suggest | Completed brief, README, evaluation, Field Notes and Promotion Review; promoted FN-000 and one research-debt item. | [agent-00-process-dry-run](https://github.com/EMT/agent-00-process-dry-run) | Not applicable | Internal only | Excluded from the thirty public experiments. |
 
 ## Public Experiments
 
