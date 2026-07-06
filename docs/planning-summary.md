@@ -1,5 +1,7 @@
 # 30 Agents in 30 Days — Planning Summary
 
+> Historical note: this document records the 2026-06-30 planning handoff. It is not the current repository structure contract. For current canonical paths and ownership, use `docs/source-of-truth-map.md`.
+
 **Status:** Ready for Codex handoff  
 **Date:** 2026-06-30  
 **Primary repository:** `30-agents`

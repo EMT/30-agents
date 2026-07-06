@@ -1,5 +1,7 @@
 # 30 Agents in 30 Days — Foundation Docs Review
 
+> Historical note: this document records the 2026-06-30 foundation document review. It is planning context, not the current repository structure contract. For current canonical paths and ownership, use `docs/source-of-truth-map.md`.
+
 **Status:** Complete for planning  
 **Date:** 2026-06-30  
 **Documents reviewed:**
