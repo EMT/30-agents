@@ -4,4 +4,4 @@ Research debt captures questions the programme now owes itself because an experi
 
 | ID | Source agent | Question | Why it matters | Proposed follow-up | Status |
 | --- | --- | --- | --- | --- | --- |
-| RD-001 | TBD | TBD | TBD | TBD | Open |
+| RD-000 | Agent #0 | How should operating templates distinguish public, private and internal-only publication tails? | Internal or private experiments need to avoid unsupported public claims while still recording that publication work was intentionally deferred. | Review `templates/operating/daily-issue.md`, `article-or-case-study.md` and `social-posts.md` before or during Agent #01. | Open |

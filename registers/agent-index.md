@@ -8,7 +8,7 @@ Agent #0 is an internal process dry run and is excluded from the thirty public e
 
 | Agent | Title | Repository | Brief | Evaluation | Verdict | Confidence | Recommended autonomy | Article / Case Study | Demo | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| #0 | Process Dry Run | [agent-00-process-dry-run](https://github.com/EMT/agent-00-process-dry-run) | [brief](https://github.com/EMT/agent-00-process-dry-run/blob/main/brief.md) | [evaluation](https://github.com/EMT/agent-00-process-dry-run/blob/main/evaluation.md) | Not started | TBD | TBD | Internal only | TBD | Prepared |
+| #0 | Process Dry Run | [agent-00-process-dry-run](https://github.com/EMT/agent-00-process-dry-run) | [brief](https://github.com/EMT/agent-00-process-dry-run/blob/main/brief.md) | [evaluation](https://github.com/EMT/agent-00-process-dry-run/blob/main/evaluation.md) | Refined | Medium | Suggest | Internal only | Not applicable | Recorded |
 
 ## Public Experiments
 
