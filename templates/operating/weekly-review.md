@@ -77,7 +77,7 @@ Guidance: include data handling, auth, permissions, agent identity, audit trails
 
 TBD
 
-Guidance: record changed priorities and why the evidence supports the change. The backlog is a hypothesis and can change when evidence changes.
+Guidance: record changed priorities and why the evidence supports the change. The backlog is a hypothesis and can change when evidence changes. Check the approved queue depth in `backlog/master-backlog.md`: when fewer than five approved experiments remain unstarted, promote the next wave from `backlog/candidate-review.md` following the promotion mechanism recorded there.
 
 ## Research Debt
 

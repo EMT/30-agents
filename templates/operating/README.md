@@ -1,4 +1,4 @@
-# Operating Templates v0.2
+# Operating Templates v0.3
 
 These templates support the daily operating rhythm for 30 Agents in 30 Days.
 
@@ -78,3 +78,5 @@ Do not invent agent concepts while filling these templates. Start from the appro
 v0.1 is the first operating set. Update these templates only when daily use shows that a change reduces friction, improves evidence quality or clarifies decisions.
 
 v0.2 adds publication tiers and publication-tail states so internal and private experiments can record intentional deferrals or waivers without appearing incomplete. Resolves RD-000 from Agent #0.
+
+v0.3 points the weekly review's Backlog Changes section at the promotion mechanism recorded in `backlog/master-backlog.md`, so promoting provisional candidates is part of weekly calibration.
