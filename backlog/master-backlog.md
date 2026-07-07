@@ -10,6 +10,20 @@ Change it when evidence suggests a better experiment, a research gap appears, fr
 
 Do not change it because of hype, novelty or boredom.
 
+## Promotion Mechanism
+
+Agents #11–#30 are not approved yet. They exist as the provisional 20 and the reserve pool in `backlog/candidate-review.md`, drawn from the candidate pool in `research/backlog.md`.
+
+Promotion into this queue works as follows:
+
+- Review the queue at each weekly calibration, or sooner if fewer than five approved experiments remain unstarted.
+- Promote in waves of five to ten, keeping the provisional order from `backlog/candidate-review.md` unless evidence from completed experiments supports a change.
+- Record a reason for each promotion, swap or demotion: evidence, a research gap, a stronger question or sustainability. Not hype, novelty or a flashier demo.
+- When a candidate is promoted, add its row here with status `Selected` and add a matching row to `registers/agent-index.md` with status `Planned`.
+- Record swaps from the reserve pool, and any demotions, in the weekly review's Backlog Changes section with the supporting evidence.
+
+## Approved Queue
+
 | Priority | Agent # | Working title | Problem | Hypothesis | Target user / workflow | Primary research question | Status | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | #01 | Friction Cartographer | Teams often start AI conversations from possible automation rather than observed workflow pain. | An agent can turn a recorded workflow walkthrough into a useful friction map before proposing any solution. | Designer, strategist or delivery lead observing an operational task. | RQ1, RQ2 | Prepared | Repository and daily issue prepared; implementation not started. |
