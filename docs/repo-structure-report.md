@@ -71,9 +71,9 @@ Other expected programme artefacts exist as placeholders rather than filled reco
 ## Recommended Next PRs
 
 1. **Resolved by issue #1: align structure references without changing foundation docs.** `docs/source-of-truth-map.md` now records the implemented structure, and historical planning docs carry warning banners.
-2. **Clarify backlog ownership.** Decide whether `research/backlog.md` is an input to `backlog/master-backlog.md`, or whether the master backlog should be replaced by the research backlog structure.
-3. **Promote the initial backlog.** Convert the recommended first agents from `research/backlog.md` into `backlog/master-backlog.md` and update `registers/agent-index.md`.
+2. **Resolved by issue #1 and PR #17: clarify backlog ownership.** `docs/source-of-truth-map.md` records `research/backlog.md` as a planning input to `backlog/master-backlog.md`, and the master backlog now records the promotion mechanism for provisional candidates.
+3. **Resolved by PR #8: promote the initial backlog.** The recommended first ten agents were promoted into `backlog/master-backlog.md` and `registers/agent-index.md`, with the candidate review recorded in `backlog/candidate-review.md` (PR #13).
 4. **Resolved by issue #1: resolve duplicate indexes.** `registers/agent-index.md` is the canonical source and `agents/README.md` is a lightweight pointer.
 5. **Close stale open questions.** Add a non-foundation status note for which planning questions are now answered, partly answered or still open.
-6. **Review operating templates.** The operating templates exist, but should be checked against the foundation documents before Agent #0 or Agent #01.
+6. **Resolved by PR #9: review operating templates.** The operating templates were tightened against the foundation documents before the Agent #0 dry run, and later revised to v0.2 (publication tiers, PR #15) and v0.3 (backlog promotion, PR #17).
 7. **Resolved by issue #1: add a source-of-truth map.** `docs/source-of-truth-map.md` now lists current canonical paths for programme records, templates, backlog, research debt, evidence, weekly reviews and synthesis.
