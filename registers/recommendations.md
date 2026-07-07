@@ -6,4 +6,5 @@ Do not promote a recommendation from one experiment unless it reveals a clear se
 
 | ID | Recommendation | Supported by | Counterexamples / trade-offs | Applies when | Avoid when | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| REC-001 | TBD | TBD | TBD | TBD | TBD | Candidate |
+
+No recommendations have been promoted yet. Add the first row when at least three experiments support it, or when a single experiment reveals a clear security, reliability or adoption risk.

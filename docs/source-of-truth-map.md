@@ -1,7 +1,7 @@
 # 30 Agents in 30 Days — Source Of Truth Map
 
 **Status:** Current operational structure
-**Date:** 2026-07-06
+**Date:** 2026-07-07
 **Primary repository:** `30-agents`
 
 This document defines the current canonical paths and ownership for the programme repository. Use it when deciding where records, templates, backlog items, evidence notes and synthesis material should live.
@@ -45,7 +45,8 @@ The issue was not the structure itself. The issue was that the planning summary 
 | `docs/source-of-truth-map.md` | Current canonical repository paths and ownership. |
 | `docs/planning-summary.md` | Historical 2026-06-30 planning handoff. |
 | `docs/foundation-docs-review.md` | Historical 2026-06-30 cross-document review record. |
-| `docs/repo-structure-report.md` | Dated audit report used to identify current structure drift. |
+| `docs/repo-structure-report.md` | Dated audit report (2026-07-06) used to identify current structure drift. |
+| `docs/repo-structure-report-2026-07-07.md` | Dated audit report (2026-07-07) re-checking structure after the source-of-truth map, Agent #0 records and candidate review. |
 | `registers/agent-index.md` | Canonical programme-level index of experiments. |
 | `registers/research-register.md` | Summary of experiment evidence and later calibration notes. |
 | `registers/field-notes-index.md` | Index of promoted Field Notes from experiments. |

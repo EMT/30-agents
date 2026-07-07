@@ -21,6 +21,7 @@ It does not implement the Agent Kit and does not contain the code for individual
 - [Field Notes Index](registers/field-notes-index.md)
 - [Recommendations](registers/recommendations.md)
 - [Master Backlog](backlog/master-backlog.md)
+- [Candidate Review](backlog/candidate-review.md)
 - [Research Debt](backlog/research-debt.md)
 
 ## Research Planning
