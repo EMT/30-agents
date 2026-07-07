@@ -1,6 +1,6 @@
 # Social Posts — Agent #XX
 
-Guidance: draft from the README, evaluation and Field Notes after the evaluation is complete. Social posts should point to evidence, not replace it. Do not introduce unsupported claims.
+Guidance: draft from the README, evaluation and Field Notes after the evaluation is complete. Social posts should point to evidence, not replace it. Do not introduce unsupported claims. Internal experiments get no social posts; record a Waived state in the daily issue. For Private experiments, link the case study and use only redacted, synthetic or summarised evidence.
 
 ## Source Links
 
@@ -15,6 +15,7 @@ Guidance: draft from the README, evaluation and Field Notes after the evaluation
 
 | Field | Value |
 | --- | --- |
+| Publication tier | TBD |
 | Agent number and title | TBD |
 | Problem tested | TBD |
 | Hypothesis verdict | TBD |
@@ -65,6 +66,7 @@ Guidance: use only if a thread genuinely improves clarity. Do not stretch a smal
 
 ## Checks
 
+- [ ] Post matches the declared publication tier.
 - [ ] Includes agent number and title.
 - [ ] Names the problem tested.
 - [ ] Includes one concrete finding.

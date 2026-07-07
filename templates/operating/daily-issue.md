@@ -10,6 +10,12 @@ Guidance: use this issue as the daily cockpit for one experiment. It should link
 - Research Register entry:
 - Evidence pack:
 
+## Publication Tier
+
+TBD
+
+Guidance: copy from the approved brief: Public, Private or Internal, as defined in `templates/operating/README.md`. After the brief freezes, the tier may only move toward less exposure; record the reason here. Moving toward more exposure needs a recorded human decision before publication.
+
 ## Goal
 
 TBD
@@ -92,10 +98,17 @@ Guidance: promotion requires evidence. Field Notes are observations; recommendat
 - [ ] Agent Index updated.
 - [ ] Field Notes index updated when notes were promoted, or left unchanged when none were promoted.
 - [ ] Backlog or research debt updated when the Promotion Review creates follow-up work.
-- [ ] Article or case study drafted from the README.
-- [ ] Social posts drafted from the README and Field Notes.
+- [ ] Article or case study is Done, Deferred or Waived in the publication tail record.
+- [ ] Social posts are Done, Deferred or Waived in the publication tail record.
 
-Guidance: public content comes after evaluation. Do not publish claims unsupported by the repository, evaluation or evidence pack.
+Publication tail record:
+
+| Output | State (Done / Deferred / Waived) | Owner and next step, or waiver reason |
+| --- | --- | --- |
+| Article or case study | TBD | TBD |
+| Social posts | TBD | TBD |
+
+Guidance: public content comes after evaluation. Do not publish claims unsupported by the repository, evaluation or evidence pack. Deferred items need an owner and next step. Waived is the expected state for Internal experiments and needs a reason, not further work.
 
 ## Close Criteria
 
@@ -103,6 +116,6 @@ Guidance: public content comes after evaluation. Do not publish claims unsupport
 - [ ] Repository evidence is complete.
 - [ ] Programme records are updated.
 - [ ] Follow-up work is captured as backlog changes or research debt.
-- [ ] Any publication tail that is deferred has an owner and next step.
+- [ ] Every publication tail item is Done, Deferred with an owner and next step, or Waived with a reason.
 
-Guidance: close the issue when the experiment is published and recorded. If publication lags, make that explicit rather than leaving research work incomplete.
+Guidance: close the issue when the experiment is published and recorded. If publication lags, make that explicit rather than leaving research work incomplete. An Internal experiment closes when its research record is complete and its tail items are Waived.
