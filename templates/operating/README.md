@@ -1,4 +1,4 @@
-# Operating Templates v0.1
+# Operating Templates v0.2
 
 These templates support the daily operating rhythm for 30 Agents in 30 Days.
 
@@ -25,6 +25,24 @@ If a template conflicts with a foundation document on principles, evaluation or 
 | Article or case study | `article-or-case-study.md` | Drafting the short public write-up after evaluation and README are complete. |
 | Social posts | `social-posts.md` | Drafting concise posts that point back to the repository, article or case study. |
 | Weekly review | `weekly-review.md` | Calibrating verdicts, confidence levels, repeated findings and research debt across the week. |
+
+## Publication Tiers
+
+Each experiment declares one publication tier in its brief. The daily issue repeats the tier so the publication tail is judged against it.
+
+| Tier | Meaning | Publication tail owed |
+| --- | --- | --- |
+| Public | The experiment can be shown with public, synthetic or user-provided data. | Article, social posts and public evidence links. |
+| Private | The experiment uses internal, client or operational data that needs redaction. | Case study built from redacted, synthetic or summarised evidence; social posts may point to it. |
+| Internal | The experiment is an internal run with no public output expected. | None. Record a waiver in the daily issue instead of leaving tail items open. |
+
+Publication-tail items resolve in one of three states:
+
+- `Done` — the output is published or ready to publish.
+- `Deferred` — the output is still owed; record an owner and next step. Use when publishing lags or batches.
+- `Waived` — the output is intentionally not produced; record the reason. This is the expected state for Internal experiments.
+
+After the brief freezes, the tier may move only toward less exposure (Public → Private → Internal), with a one-line reason recorded in the daily issue. Moving toward more exposure requires a recorded human decision before publication.
 
 ## Source-Of-Truth Reminders
 
@@ -58,3 +76,5 @@ Do not invent agent concepts while filling these templates. Start from the appro
 ## Version Notes
 
 v0.1 is the first operating set. Update these templates only when daily use shows that a change reduces friction, improves evidence quality or clarifies decisions.
+
+v0.2 adds publication tiers and publication-tail states so internal and private experiments can record intentional deferrals or waivers without appearing incomplete. Resolves RD-000 from Agent #0.

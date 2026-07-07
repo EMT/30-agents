@@ -52,6 +52,12 @@ TBD
 
 TBD
 
+## Publication Tier
+
+TBD
+
+Public, Private or Internal, as defined in the programme repository's `templates/operating/README.md`. After the brief freezes, the tier may only move toward less exposure.
+
 ## Production Concerns
 
 TBD

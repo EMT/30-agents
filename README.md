@@ -30,7 +30,7 @@ It does not implement the Agent Kit and does not contain the code for individual
 ## Templates
 
 - [Agent repository templates](templates/agent-repo/)
-- [Operating Templates v0.1](templates/operating/README.md)
+- [Operating Templates](templates/operating/README.md)
 
 ## Structure
 

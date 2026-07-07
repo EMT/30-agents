@@ -1,9 +1,10 @@
 # Agent #XX — Title
 
-Guidance: draft this only after `evaluation.md` is complete and the README reflects the evidence. Use an article when the agent can be shown with public, synthetic or user-provided data. Use a case study when internal data, privacy, permissions or operational context need redaction.
+Guidance: draft this only after `evaluation.md` is complete and the README reflects the evidence. Use an article when the publication tier is Public. Use a case study when the tier is Private: build it only from redacted, synthetic or summarised evidence. Internal experiments do not produce this document; record a Waived state in the daily issue instead.
 
 ## Source Links
 
+- Publication tier (from the brief):
 - Repository:
 - README:
 - Brief:
@@ -76,6 +77,7 @@ Guidance: describe future work without rewriting a rejected hypothesis as a succ
 - [ ] Evidence gaps are either resolved or acknowledged.
 - [ ] Claims are supported by the repository, evaluation or evidence pack.
 - [ ] Sensitive data, credentials, customer information and internal operational details are removed, redacted or summarised.
+- [ ] Output matches the declared publication tier.
 - [ ] Verdict and confidence match `evaluation.md`.
 - [ ] Language is direct, practical, specific and honest.
 - [ ] Hype language has been removed.
