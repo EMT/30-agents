@@ -1,7 +1,7 @@
 # Research Backlog
 
 Status: Draft planning proposal  
-Last updated: 2026-07-01  
+Last updated: 2026-07-07  
 
 This backlog is a research planning artefact for 30 Agents in 30 Days. It is not an implementation plan, delivery commitment or approved sequence.
 
@@ -32,7 +32,7 @@ The backlog follows the foundation documents:
 | Intake, triage and routing | RQ1, RQ2, RQ4 | 5 | Lead Triage Agent; Support Intake Classifier; Grant Eligibility Screener; Inbox Prioritiser; Research Request Router |
 | Review, QA and risk assessment | RQ2, RQ3, RQ5 | 6 | Proposal Risk Reviewer; Contract Red-Flag Assistant; Accessibility QA Agent; Release Notes QA Agent; Data Quality Sentinel; Policy Drift Checker |
 | Knowledge retrieval and synthesis | RQ1, RQ2, RQ3 | 6 | Project Memory Agent; Research Pack Builder; Meeting Evidence Extractor; Decision Log Curator; Competitor Change Monitor; Source Citation Checker |
-| Content and communication workflows | RQ2, RQ3, RQ6 | 6 | Case Study Drafting Assistant; Tone-of-Voice Reviewer; Social Evidence Extractor; Bid Response Assembler; Customer Update Drafter; Internal Comms Summariser |
+| Content and communication workflows | RQ2, RQ3, RQ6 | 7 | Case Study Drafting Assistant; Tone-of-Voice Reviewer; Social Evidence Extractor; Bid Response Assembler; Customer Update Drafter; Internal Comms Summariser; Brand Guardian |
 | Planning and operations | RQ1, RQ4, RQ6 | 7 | Scope Change Assessor; Sprint Planning Assistant; Resource Allocation Adviser; Delivery Risk Radar; Procurement Comparison Agent; Maintenance Triage Agent; Runbook Rehearsal Agent |
 | Data extraction and structured outputs | RQ3, RQ5, RQ6 | 6 | Receipt Coding Assistant; CSV Reconciliation Agent; Form-to-CRM Agent; Invoice Exception Reviewer; Compliance Evidence Extractor; Spreadsheet Formula Auditor |
 | Human approval and delegated action | RQ4, RQ5 | 5 | Calendar Negotiation Agent; GitHub Issue Groomer; CRM Follow-up Agent; Slack Decision Capture Agent; Vendor Renewal Assistant |
@@ -750,6 +750,20 @@ Coverage goals:
 - Likely stack additions: Markdown diffing; Research Register reader; citation/evidence mapper.
 - Risk/complexity: Medium; it depends on consistent programme records and careful source-of-truth handling.
 - Why this belongs in the programme: It makes the evolution of Fieldwork's judgement visible while preserving published experiments as immutable snapshots.
+
+### 51. Brand Guardian
+
+- Title: Brand Guardian
+- Category: Content and communication workflows
+- Problem: Brand guidelines are applied inconsistently in everyday content production because compliance depends on individual memory of the rules, so violations slip through fast-moving channels such as social.
+- Hypothesis: An agent with access to codified brand guidelines can reliably review everyday brand-touching output and flag specific, actionable corrections, such as switching from the full logo to the small logo mark when a post already uses a photo and large type.
+- Likely user/workflow: Designer, marketer or account lead reviewing a prepared asset (social post, deck slide, one-pager) before publication.
+- Baseline: Manual review by a designer or brand owner, or no review when they are unavailable.
+- Public demo or private case study: Public demo with a synthetic brand guideline pack and mock social posts.
+- Research question covered: RQ2, RQ3
+- Likely stack additions: Codified brand guideline pack; image/vision input for visual assets; review rubric with severity and rationale.
+- Risk/complexity: Medium to high; the hard work is codifying partly tacit design judgement, and visual checks risk confident-but-wrong feedback.
+- Why this belongs in the programme: Tests whether tacit design judgement can be encoded well enough for reliable everyday enforcement, and extends the Tone-of-Voice Reviewer's rubric approach from copy into multimodal visual brand review.
 
 ## Recommended First 10 Agents
 
