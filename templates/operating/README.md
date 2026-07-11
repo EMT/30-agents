@@ -1,4 +1,4 @@
-# Operating Templates v0.3
+# Operating Templates v0.4
 
 These templates support the daily operating rhythm for 30 Agents in 30 Days.
 
@@ -28,7 +28,7 @@ If a template conflicts with a foundation document on principles, evaluation or 
 
 ## Publication Tiers
 
-Each experiment declares one publication tier in its brief. The daily issue repeats the tier so the publication tail is judged against it.
+Each experiment's intended tier is recorded when its backlog row is promoted into `backlog/master-backlog.md`, so the Agent Kit can scaffold the repository with it. The brief confirms the tier at freeze and owns it from then on. The daily issue repeats the tier so the publication tail is judged against it.
 
 | Tier | Meaning | Publication tail owed |
 | --- | --- | --- |
@@ -80,3 +80,5 @@ v0.1 is the first operating set. Update these templates only when daily use show
 v0.2 adds publication tiers and publication-tail states so internal and private experiments can record intentional deferrals or waivers without appearing incomplete. Resolves RD-000 from Agent #0.
 
 v0.3 points the weekly review's Backlog Changes section at the promotion mechanism recorded in `backlog/master-backlog.md`, so promoting provisional candidates is part of weekly calibration.
+
+v0.4 moves the initial tier choice to backlog promotion (recorded as a Tier column in `backlog/master-backlog.md`) so the Agent Kit can scaffold with it; the brief still confirms and owns the tier from freeze. Adds the per-experiment `content/` convention: publication-tail drafts (article or case study, social posts) live in the experiment repository under `content/`, created at close-out — not in the public programme repository, so unreviewed drafts stay private until publication.
