@@ -37,7 +37,7 @@ The backlog follows the foundation documents:
 | Data extraction and structured outputs | RQ3, RQ5, RQ6 | 6 | Receipt Coding Assistant; CSV Reconciliation Agent; Form-to-CRM Agent; Invoice Exception Reviewer; Compliance Evidence Extractor; Spreadsheet Formula Auditor |
 | Human approval and delegated action | RQ4, RQ5 | 5 | Calendar Negotiation Agent; GitHub Issue Groomer; CRM Follow-up Agent; Slack Decision Capture Agent; Vendor Renewal Assistant |
 | Production constraints and safety | RQ3, RQ5, RQ6 | 4 | Permission Boundary Tester; Audit Trail Explainer; Sensitive Data Redactor; Incident Postmortem Assistant |
-| Design discovery, trust and meta-research | RQ1, RQ2, RQ4, RQ6 | 5 | Friction Cartographer; Anti-Agent; Decision Archaeologist; Trust Designer; Recommendation Diff |
+| Design discovery, trust and meta-research | RQ1, RQ2, RQ4, RQ6 | 5 | Workflow Friction Mapper; Anti-Agent; Decision Archaeologist; Trust Designer; Recommendation Diff |
 
 Coverage goals:
 
@@ -681,9 +681,9 @@ Coverage goals:
 - Risk/complexity: Medium to high; sensitive data and user-specific priorities matter.
 - Why this belongs in the programme: Tests adoption in a familiar workflow where personal trust thresholds are high.
 
-### 46. Friction Cartographer
+### 46. Workflow Friction Mapper
 
-- Title: Friction Cartographer
+- Title: Workflow Friction Mapper
 - Category: Design discovery, trust and meta-research
 - Problem: Teams often start AI conversations from possible automation rather than observed workflow pain.
 - Hypothesis: An agent can turn a recorded workflow walkthrough into a useful friction map that reveals hesitation, waiting, context switching, duplication and uncertainty before proposing any solution.
@@ -771,7 +771,7 @@ The first ten should create useful programme evidence quickly, exercise differen
 
 | Order | Agent | Reason |
 | ---: | --- | --- |
-| 1 | Friction Cartographer | Starts from observed workflow pain, not automation, and anchors the programme in design-led discovery. |
+| 1 | Workflow Friction Mapper | Starts from observed workflow pain, not automation, and anchors the programme in design-led discovery. |
 | 2 | Meeting Evidence Extractor | Strong first implementation build: synthetic data, structured outputs, clear baseline, useful eval scenarios. |
 | 3 | Anti-Agent | Tests whether the brief should exist before the programme gets too committed to building agents by default. |
 | 4 | Proposal Risk Reviewer | Tests judgement support and evidence-grounded review in a high-value workflow. |

@@ -32,7 +32,7 @@ These should form the opening sequence because they create varied evidence quick
 
 | Order | Candidate | Why it belongs in the first 10 |
 | ---: | --- | --- |
-| 1 | Friction Cartographer | Starts from workflow observation rather than automation. This directly supports the charter's design-led position and tests whether agents can help identify better AI opportunities before implementation. |
+| 1 | Workflow Friction Mapper | Starts from workflow observation rather than automation. This directly supports the charter's design-led position and tests whether agents can help identify better AI opportunities before implementation. |
 | 2 | Meeting Evidence Extractor | Narrow, familiar workflow with synthetic data, clear baseline and strong structured-output evaluation. Good early test of usefulness beyond generic summarisation. |
 | 3 | Anti-Agent | Forces the programme to test simpler baselines, non-AI options and adoption risks before it becomes committed to building agents by default. This protects the "use AI only where it helps" principle. |
 | 4 | Proposal Risk Reviewer | High-value judgement-support workflow with human authority preserved. Useful early evidence on review quality, risk language, false confidence and redacted/private case-study handling. |
