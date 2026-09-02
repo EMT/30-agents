@@ -14,7 +14,7 @@ Agent #0 is an internal process dry run and is excluded from the thirty public e
 
 | Agent | Title | Repository | Brief | Evaluation | Verdict | Confidence | Recommended autonomy | Article / Case Study | Demo | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| #01 | Workflow Friction Mapper | TBD | TBD | TBD | Not started | TBD | TBD | TBD | TBD | Planned |
+| #01 | Workflow Friction Mapper | [agent-01-workflow-friction-mapper](https://github.com/EMT/agent-01-workflow-friction-mapper) | [brief](https://github.com/EMT/agent-01-workflow-friction-mapper/blob/main/brief.md) | [evaluation](https://github.com/EMT/agent-01-workflow-friction-mapper/blob/main/evaluation.md) | Confirmed | Medium | Suggest | Drafted | Not applicable (text output; captured maps in [evidence/outputs](https://github.com/EMT/agent-01-workflow-friction-mapper/tree/main/evidence/outputs)) | Evaluated |
 | #02 | Meeting Evidence Extractor | TBD | TBD | TBD | Not started | TBD | TBD | TBD | TBD | Planned |
 | #03 | Anti-Agent | TBD | TBD | TBD | Not started | TBD | TBD | TBD | TBD | Planned |
 | #04 | Proposal Risk Reviewer | TBD | TBD | TBD | Not started | TBD | TBD | TBD | TBD | Planned |
