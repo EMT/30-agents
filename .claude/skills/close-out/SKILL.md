@@ -1,11 +1,11 @@
 ---
 name: close-out
-description: Close out one "30 Agents in 30 Days" experiment day — sync the programme registers from the experiment repo's records, draft the publication tail for its tier, resolve today's daily issue, and prepare tomorrow's experiment. Use when the user says "close out" / "close out agent #XX", "end of day", "update the registers", "open tomorrow's issue", or "draft the publication tail".
+description: Close out one "30 Agents" experiment — sync the programme registers from the experiment repo's records, draft the publication tail for its tier, resolve the experiment's build issue, and prepare the next experiment. Use when the user says "close out" / "close out agent #XX", "update the registers", "open the next issue", or "draft the publication tail".
 ---
 
-# Daily Close-Out
+# Experiment Close-Out
 
-Operates the programme's daily paperwork so records stay consistent without hand-copying. It **drafts and proposes** (Suggest on the autonomy ladder): show every register edit, draft and issue action for review before committing or posting anything. Never push to a published experiment repo — experiments are immutable once published.
+Operates the programme's per-experiment paperwork so records stay consistent without hand-copying. It **drafts and proposes** (Suggest on the autonomy ladder): show every register edit, draft and issue action for review before committing or posting anything. Never push to a published experiment repo — experiments are immutable once published.
 
 **Never invent content.** Every claim in a register row, article, or post must trace to a record in the experiment repo (`evaluation.md`, `field-notes.md`, `promotion-review.md`, `brief.md`, `README.md`, `evidence/`). Where evidence is missing, record the gap — do not fill it. On any ownership conflict, `docs/source-of-truth-map.md` wins on paths, `evaluation.md` wins on verdicts.
 
@@ -29,11 +29,11 @@ Agent number (e.g. `/close-out 02`). Find the experiment repo as a sibling check
 - **Internal** — no output; draft the waiver instead.
 Drafts live in the experiment repository under `content/` (create it with the first draft: `content/article.md` or `content/case-study.md`, `content/social-posts.md`) — never in this public programme repo, so unreviewed drafts stay private until the experiment publishes. Internal tier creates no `content/` at all. Each tail item resolves as `Done`, `Deferred` (owner + next step) or `Waived` (reason) in the daily issue.
 
-**4. Resolve today's daily issue** (in the experiment repo): tick what the records prove is done, record the tail states and any tier change (less exposure only), then propose closing it. Unfinished non-tail work goes to backlog changes or research debt, not into scope expansion.
+**4. Resolve the experiment's daily issue** (in the experiment repo): tick what the records prove is done, record the tail states and any tier change (less exposure only), then propose closing it. Unfinished non-tail work goes to backlog changes or research debt, not into scope expansion.
 
-**5. Prepare tomorrow.** Next agent = first unstarted row in `backlog/master-backlog.md`. Its Tier column must hold a real value (set at promotion; if it's TBD, ask the human — don't guess). If the repo doesn't exist, scaffold it with the agent kit (`../fieldwork-agent-kit/bin/create-fieldwork-agent.ts <NN>` — the kit reads the tier from the backlog row). Then open its daily build issue from `templates/operating/daily-issue.md` with links, tier and goal prefilled from the brief — title convention: `Agent #NN - Build <Title>`.
+**5. Prepare the next experiment.** Next agent = first unstarted row in `backlog/master-backlog.md`. Its Tier column must hold a real value (set at promotion; if it's TBD, ask the human — don't guess). If the repo doesn't exist, scaffold it with the agent kit (`../fieldwork-agent-kit/bin/create-fieldwork-agent.ts <NN>` — the kit reads the tier from the backlog row). Then open its daily build issue from `templates/operating/daily-issue.md` with links, tier and goal prefilled from the brief — title convention: `Agent #NN - Build <Title>`.
 
-**6. Present the changeset** — register diffs, drafts, issue actions, tomorrow's prep — and wait for approval before committing to this repo or touching GitHub.
+**6. Present the changeset** — register diffs, drafts, issue actions, next-experiment prep — and wait for approval before committing to this repo or touching GitHub.
 
 ## Out of scope
 

@@ -3,7 +3,7 @@
 Status: Draft planning proposal  
 Last updated: 2026-07-07  
 
-This backlog is a research planning artefact for 30 Agents in 30 Days. It is not an implementation plan, delivery commitment or approved sequence.
+This backlog is a research planning artefact for 30 Agents. It is not an implementation plan, delivery commitment or approved sequence.
 
 The backlog follows the foundation documents:
 

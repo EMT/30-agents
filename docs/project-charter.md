@@ -1,4 +1,4 @@
-# 30 Agents in 30 Days — Project Charter
+# 30 Agents — Project Charter
 
 **Version:** v0.6  
 **Status:** Approved for planning  
@@ -7,7 +7,7 @@
 
 ## 1. Purpose
 
-Fieldwork will build thirty small, working AI agents in thirty days over six weeks.
+Fieldwork will build thirty small, working AI agents, one experiment at a time, alongside its client work.
 
 The goal is not to produce thirty demos. The goal is to learn how practical AI systems should be identified, designed, engineered, evaluated and deployed safely inside real organisations.
 
@@ -65,7 +65,7 @@ What engineering effort, runtime cost, maintenance burden and organisational cha
 
 ## 5. What we will build
 
-For thirty days over six weeks, we will build one narrow AI agent or agentic workflow.
+For each of the thirty experiments, we will build one narrow AI agent or agentic workflow.
 
 Each experiment must include:
 
@@ -201,7 +201,7 @@ The project succeeds if:
 1. We complete thirty experiments.
 2. Each experiment is evaluated, not just demonstrated.
 3. We publish successes, failures and changed assumptions.
-4. The Agent Kit improves between Day 1 and Day 30.
+4. The Agent Kit improves between the first agent and the thirtieth.
 5. The templates and daily process improve through use.
 6. Our judgement about AI systems improves.
 7. We identify factors that affect adoption and disuse.
@@ -210,7 +210,7 @@ The project succeeds if:
 10. Existing clients, partners and peers increasingly associate Fieldwork with practical AI system design and delivery.
 11. We finish with a method we would confidently use on real organisational AI projects.
 
-Ultimately, the question is: **How much more capable is Fieldwork on Day 30 than on Day 1?**
+Ultimately, the question is: **How much more capable is Fieldwork after the thirtieth agent than before the first?**
 
 ## 11. Public posture
 
@@ -222,9 +222,9 @@ The business aim is to shift how trusted clients, partners and peers describe Fi
 
 We are not optimising for reach. We are optimising for trust.
 
-## 12. After thirty days
+## 12. After the thirtieth agent
 
-After Day 30, we will synthesise the evidence into outputs:
+After the thirtieth agent, we will synthesise the evidence into outputs:
 
 - the Fieldwork Method for designing AI systems;
 - engineering recommendations supported by the experiments;

@@ -1,4 +1,4 @@
-# 30 Agents in 30 Days — Engineering Principles
+# 30 Agents — Engineering Principles
 
 **Version:** v0.4  
 **Status:** Approved for planning  

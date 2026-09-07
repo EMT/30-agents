@@ -1,4 +1,4 @@
-# 30 Agents in 30 Days — Content Strategy
+# 30 Agents — Content Strategy
 
 **Version:** v0.4  
 **Status:** Approved for planning  
@@ -313,7 +313,7 @@ Do not rewrite published evaluations during calibration. Record reinterpretation
 
 ## 13. Final synthesis
 
-After Day 30, the daily content becomes source material for:
+After the thirtieth agent, the per-experiment content becomes source material for:
 
 - the Fieldwork Method for designing AI systems;
 - engineering recommendations;

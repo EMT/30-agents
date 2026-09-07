@@ -1,4 +1,4 @@
-# 30 Agents in 30 Days — Source Of Truth Map
+# 30 Agents — Source Of Truth Map
 
 **Status:** Current operational structure
 **Date:** 2026-07-07

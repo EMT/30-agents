@@ -1,4 +1,4 @@
-# 30 Agents in 30 Days — Planning Summary
+# 30 Agents — Planning Summary
 
 > Historical note: this document records the 2026-06-30 planning handoff. It is not the current repository structure contract. For current canonical paths and ownership, use `docs/source-of-truth-map.md`.
 
@@ -22,7 +22,7 @@ Use this file as a quick orientation layer, not as a replacement for the foundat
 
 ## Project in one paragraph
 
-Fieldwork will build thirty small, working AI agents in thirty days over six weeks. The agents are experiments, not products. The goal is to learn how practical AI systems should be identified, designed, engineered, evaluated and deployed safely inside real organisations. The lasting outputs are the Agent Kit, Field Notes, evaluation practice, reusable patterns, public evidence and the Fieldwork Method for designing AI systems.
+Fieldwork will build thirty small, working AI agents, one experiment at a time, alongside its client work. The agents are experiments, not products. The goal is to learn how practical AI systems should be identified, designed, engineered, evaluated and deployed safely inside real organisations. The lasting outputs are the Agent Kit, Field Notes, evaluation practice, reusable patterns, public evidence and the Fieldwork Method for designing AI systems.
 
 ## Core stance
 
@@ -210,7 +210,7 @@ Do not publish an article, social post or gallery entry before the evaluation is
 Status: complete. This was the original handoff task, not current work. Use `docs/source-of-truth-map.md` and the current issue queue for active repository work.
 
 ```txt
-We are creating the 30-agents repository for Fieldwork’s “30 Agents in 30 Days” project.
+We are creating the 30-agents repository for Fieldwork’s “30 Agents” project.
 
 Read docs/project-charter.md, docs/engineering-principles.md, docs/evaluation-framework.md, docs/content-strategy.md and docs/planning-summary.md first.
 

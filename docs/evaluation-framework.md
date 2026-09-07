@@ -1,4 +1,4 @@
-# 30 Agents in 30 Days — Evaluation Framework
+# 30 Agents — Evaluation Framework
 
 **Version:** v0.4  
 **Status:** Approved for planning  

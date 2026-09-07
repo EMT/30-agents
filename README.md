@@ -1,6 +1,6 @@
-# 30 Agents in 30 Days
+# 30 Agents
 
-Programme repository for Fieldwork's "30 Agents in 30 Days" project.
+Programme repository for Fieldwork's "30 Agents" project.
 
 This repository tracks the challenge-level operating system: foundation docs, registers, indexes, backlog, Field Notes, weekly reviews, synthesis drafts and reusable templates.
 

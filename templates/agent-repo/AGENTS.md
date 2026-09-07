@@ -1,6 +1,6 @@
 # Agent Repository — Codex Instructions
 
-This repository contains one immutable experiment for Fieldwork's "30 Agents in 30 Days" project.
+This repository contains one immutable experiment for Fieldwork's "30 Agents" project.
 
 Before implementation, read:
 

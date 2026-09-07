@@ -1,6 +1,6 @@
-# 30 Agents in 30 Days — Codex Instructions
+# 30 Agents — Codex Instructions
 
-This repository is the programme-level source of truth for Fieldwork's "30 Agents in 30 Days" project.
+This repository is the programme-level source of truth for Fieldwork's "30 Agents" project.
 
 ## Read First
 

@@ -1,6 +1,6 @@
 # Operating Templates v0.4
 
-These templates support the daily operating rhythm for 30 Agents in 30 Days.
+These templates support the per-experiment operating rhythm for 30 Agents.
 
 Use them to reduce setup cost, make missing evidence visible and keep publication tied to the research record. They do not replace the foundation documents or human judgement.
 
